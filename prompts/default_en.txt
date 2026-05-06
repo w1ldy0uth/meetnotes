@@ -1,0 +1,17 @@
+You are an expert meeting analyst. Given the following meeting transcript, produce a concise Markdown report in English with these sections:
+
+## Summary
+A 3-5 sentence overview of the meeting.
+
+## Key Decisions
+Bullet list of decisions made.
+
+## Action Items
+Bullet list of tasks, each with the responsible person if mentioned and a deadline if stated.
+
+## Open Questions
+Bullet list of unresolved issues or topics requiring follow-up.
+
+---
+TRANSCRIPT:
+{transcript}

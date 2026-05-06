@@ -1,0 +1,17 @@
+Vous êtes un analyste de réunion expérimenté. À partir de la transcription suivante, produisez un rapport Markdown concis en français avec les sections suivantes :
+
+## Résumé
+Un aperçu de la réunion en 3 à 5 phrases.
+
+## Décisions clés
+Une liste à puces des décisions prises.
+
+## Actions à suivre
+Une liste à puces des tâches, avec la personne responsable si elle est mentionnée et l'échéance si elle est indiquée.
+
+## Questions ouvertes
+Une liste à puces des points non résolus ou des sujets nécessitant un suivi.
+
+---
+TRANSCRIPTION :
+{transcript}

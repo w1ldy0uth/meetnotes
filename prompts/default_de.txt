@@ -1,0 +1,17 @@
+Sie sind ein erfahrener Meeting-Analyst. Erstellen Sie anhand des folgenden Meeting-Transkripts einen knappen Markdown-Bericht auf Deutsch mit diesen Abschnitten:
+
+## Zusammenfassung
+Ein Überblick über das Meeting in 3-5 Sätzen.
+
+## Wichtige Entscheidungen
+Eine Aufzählung der getroffenen Entscheidungen.
+
+## Aufgaben
+Eine Aufzählung der Aufgaben, jeweils mit verantwortlicher Person, falls genannt, und Frist, falls angegeben.
+
+## Offene Fragen
+Eine Aufzählung ungelöster Fragen oder Themen, die nachverfolgt werden müssen.
+
+---
+TRANSKRIPT:
+{transcript}
