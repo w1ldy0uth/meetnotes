@@ -1,6 +1,7 @@
 # meetnotes
 
-Transcribe and summarize your team meetings locally
+meetnotes turns raw meeting recordings into concise summaries entirely on your own machine. It pairs local transcription with LM Studio for summarization, so sensitive meeting content never touches a third-party API. 
+Multi-language prompt support and tunable context/output sizes make it easy to adapt to different meeting lengths and languages.
 
 ## Usage
 
